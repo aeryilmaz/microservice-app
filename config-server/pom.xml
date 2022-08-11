@@ -6,6 +6,7 @@
         <artifactId>microservice-app</artifactId>
         <groupId>com.aeryilmaz</groupId>
         <version>10.0.1</version>
+        <relativePath/>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
